@@ -1,3 +1,3 @@
 # web-simple
 
-Simple projects mad with html, css and js
+Simple projects made with html, css and js
